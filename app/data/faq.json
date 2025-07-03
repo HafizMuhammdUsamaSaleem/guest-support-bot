@@ -1,0 +1,50 @@
+[
+    {
+        "question": "What time is check-in?",
+        "answer": "Check-in is available from 3 PM onwards."
+    },
+    {
+        "question": "What time is check-out?",
+        "answer": "Guests must check out by 11 AM on the day of departure."
+    },
+    {
+        "question": "Is lunch provided during the stay?",
+        "answer": "Meals are not included, but we provide a fully-equipped kitchen for your use. Nearby restaurants are also available."
+    },
+    {
+        "question": "Are pets allowed on the property?",
+        "answer": "Unfortunately, pets are not allowed in the rental property."
+    },
+    {
+        "question": "What are the house rules?",
+        "answer": "No smoking, no parties or events, and quiet hours are from 10 PM to 8 AM."
+    },
+    {
+        "question": "Is Wi-Fi available at the property?",
+        "answer": "Yes, high-speed Wi-Fi is available throughout the property."
+    },
+    {
+        "question": "What is the Wi-Fi password?",
+        "answer": "The Wi-Fi password will be provided at check-in or can be found in the welcome guide inside the apartment."
+    },
+    {
+        "question": "Is there a washing machine available?",
+        "answer": "Yes, a washing machine is available in the unit along with complimentary detergent."
+    },
+    {
+        "question": "Are ironing facilities provided?",
+        "answer": "Yes, we provide an iron and ironing board for your convenience."
+    },
+    {
+        "question": "Is parking available on-site?",
+        "answer": "Yes, one free parking spot is available per reservation."
+    },
+    {
+        "question": "Are towels and linens included?",
+        "answer": "Yes, fresh towels and linens are provided for all guests."
+    },
+    {
+        "question": "What attractions are nearby?",
+        "answer": "The property is close to downtown cafes, the central park, and the riverwalk trail. A full list is available in the welcome guide."
+    }
+]
