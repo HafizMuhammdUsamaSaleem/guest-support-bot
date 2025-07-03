@@ -82,7 +82,7 @@ You must run ```/api/embed``` to create embeddings before asking questions.
 
 ```POST /api/embed``` → creates FAQ embeddings
 
-```POST /api/ask``` → ask questions (English or Arabic)
+```POST /api/ask``` → ask questions (English)
 
 ### Step 2: Start Streamlit UI
 **In a new terminal tab:**
@@ -92,12 +92,11 @@ Streamlit opens at: http://localhost:8501
 
 - Ask: "What time is check-in?"
 
-- Ask: "ما هي قواعد المنزل؟"
-
 - Both will get polite, LLM-generated responses in the correct language.
 
 ###  Example Queries
-```   Question                                   Response (LLM-generated)                               
+```   
+      Question                                   Response (LLM-generated)                               
 --------------------------------  ------------------------------------------------------ 
 "What is the Wi-Fi password?"     "You’ll find the Wi-Fi password in the welcome guide."                
 "I want a refund for my booking"  "🚨 Escalated to support team"  
