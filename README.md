@@ -36,16 +36,12 @@ Data      Static `faq.json`
 │   │   └── faiss_index.bin
 │   ├── main.py
 │   ├── models
-│   │   ├── __pycache__
-│   │   │   └── schema.cpython-311.pyc
 │   │   └── schema.py
 │   └── services
-│       ├── __pycache__
-│       │   └── embedder.cpython-311.pyc
 │       └── embedder.py
 ├── requirememts.txt
 └── ui
-│  └── streamlit_app.py 
+│    └── streamlit_app.py
 ├── README.md
 ├── .env_example
   ```
