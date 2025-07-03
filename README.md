@@ -75,7 +75,9 @@ The default embedding model is already set to ```all-MiniLM-L6-v2.```
 
 ``` uvicorn app.main:app --reload ```
 Visit Swagger UI for testing:
-```http://localhost:8000/docs```
+
+http://localhost:8000/docs
+
 **Important:**
 
 You must run ```/api/embed``` to create embeddings before asking questions.
@@ -92,14 +94,17 @@ Streamlit opens at: http://localhost:8501
 
 - Ask: "What time is check-in?"
 
-- Both will get polite, LLM-generated responses in the correct language.
+- You will get polite, LLM-generated responses.
 
 ###  Example Queries
 ```   
       Question                                   Response (LLM-generated)                               
 --------------------------------  ------------------------------------------------------ 
 "What is the Wi-Fi password?"     "You’ll find the Wi-Fi password in the welcome guide."                
+
 "I want a refund for my booking"  "🚨 Escalated to support team"  
+
+"Can I pay using crypto wallets?" "Sorry, I couldn't find an answer. Escalating to support."
            
 ```
 
