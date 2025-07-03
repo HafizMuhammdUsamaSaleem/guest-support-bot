@@ -11,11 +11,11 @@ A bilingual (English + Arabic) AI-powered guest support chatbot for vacation ren
 - English language only (future support for other languages planned)
 
 ## Tech Stack
-Backend   FastAPI, FAISS, SentenceTransformers 
-LLM       Gemini via `google-generativeai` 
-Frontend  Streamlit               
-Language  English (with planned multilingual support)
-Data      Static `faq.json`
+- Backend   FastAPI, FAISS, SentenceTransformers 
+- LLM       Gemini via `google-generativeai` 
+- Frontend  Streamlit               
+- Language  English (with planned multilingual support)
+- Data      Static `faq.json`
 
 ## Project Structure
 
